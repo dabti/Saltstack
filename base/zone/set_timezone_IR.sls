@@ -1,0 +1,3 @@
+Asia/Tehran:
+  timezone.system
+
